@@ -1,0 +1,1 @@
+Write one razor-sharp, funny single-line excuse (at most 200 characters) for skipping a pointless work meeting or Zoom call. It should land a sharp, surprising turn, feel true to office life, stay tight with no wasted words, and find a fresh angle — not a stock excuse about bad wifi, a cat, or a dentist. The program writes the line to /output/entry.txt.
